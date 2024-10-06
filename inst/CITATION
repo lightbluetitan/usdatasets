@@ -1,0 +1,9 @@
+bibentry(
+  bibtype  = "Manual",
+  title    = "usdatasets: A Comprehensive Collection of U.S. Datasets",
+  author   = "Renzo Caceres Rossi",
+  year     = 2024,
+  note     = "R package version 0.1.0",
+  url      = "https://github.com/lightbluetitan/usdatasets"
+)
+
