@@ -1,0 +1,6 @@
+pandoc: 3.1.11
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  usdatasets-introduction: usdatasets-introduction.html
+last_built: 2024-10-08T19:36Z
